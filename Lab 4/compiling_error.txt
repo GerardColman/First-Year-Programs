@@ -1,0 +1,4 @@
+C:\Users\gcolm\Google Drive\School\UCD\Year 1\Semester 1\Computer Science\Computer Programming I\C Programmes\Lab 4\maximum.c: In function 'main':
+C:\Users\gcolm\Google Drive\School\UCD\Year 1\Semester 1\Computer Science\Computer Programming I\C Programmes\Lab 4\maximum.c:30:25: error: lvalue required as left operand of assignment
+       else if (a = b&&b = c){
+                         ^
